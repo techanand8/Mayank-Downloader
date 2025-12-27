@@ -84,7 +84,7 @@ This project was built to showcase **Mayank Anand's** ability to bridge the gap 
 
 ### 🎬 Luxe Video Walkthrough
 <div align="center">
-  <video src="https://github.com/techanand8/Mayank-Downloader/blob/main/2025-12-27%2014-28-24.mp4?raw=true" width="100%" controls>
+  <video src="https://github.com/techanand8/Mayank-Downloader/raw/main/2025-12-27%2014-28-24.mp4" width="100%" height="auto" controls>
     Your browser does not support the video tag.
   </video>
 </div>
