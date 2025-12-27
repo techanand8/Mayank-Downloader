@@ -62,6 +62,26 @@ This project was built to showcase **Mayank Anand's** ability to bridge the gap 
 ---
 **Developed with ❤️ by [Mayank Anand](https://github.com/techanand8)**
 
+### 🎨 User Interface & Themes
+| | | |
+|:---:|:---:|:---:|
+| ![UI 1](Screenshot_20251227_134540.png) | ![UI 2](Screenshot_20251227_134606.png) | ![UI 3](Screenshot_20251227_134626.png) |
+| ![UI 4](Screenshot_20251227_134655.png) | ![UI 5](Screenshot_20251227_134721.png) | ![UI 6](Screenshot_20251227_134742.png) |
+
+### 🔍 Discovery & Quality Settings
+| | | |
+|:---:|:---:|:---:|
+| ![Search 1](Screenshot_20251227_135252.png) | ![Search 2](Screenshot_20251227_135322.png) | ![Search 3](Screenshot_20251227_135416.png) |
+| ![Quality 1](Screenshot_20251227_135443.png) | ![Quality 2](Screenshot_20251227_140906.png) | ![Quality 3](Screenshot_20251227_141622.png) |
+
+### 📥 Final Extraction
+<p align="center">
+  <img src="Screenshot_20251227_141636.png" width="45%" />
+  <img src="Screenshot_20251227_141700.png" width="45%" />
+</p>
+
+---
+
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/techanand8/Mayank-Downloader.git](https://github.com/techanand8/Mayank-Downloader.git)
