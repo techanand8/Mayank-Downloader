@@ -88,7 +88,6 @@ This project was built to showcase **Mayank Anand's** ability to bridge the gap 
     Your browser does not support the video tag.
   </video>
 </div>
----
 
 1. **Clone the repository:**
    ```bash
