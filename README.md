@@ -86,6 +86,12 @@ This project was built to showcase **Mayank Anand's** ability to bridge the gap 
 
 https://github.com/techanand8/Mayank-Downloader/raw/main/2025-12-27%2014-28-24.mp4
 
+## 🎥 Demo Videos
+
+- [▶️ Demo 1](https://github.com/user-attachments/assets/d34bef7e-6e45-488f-b783-5aa9b9a24ea4)
+- [▶️ Demo 2](https://github.com/user-attachments/assets/17970eeb-afc4-4ef2-8782-602cdae9ded8)
+
+
 ---
 
 ### 🛠️ Installation & Setup
